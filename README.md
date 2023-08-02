@@ -1,9 +1,9 @@
 # integrate-LLM-to-webapp
-How to integrate  LLM to webapp using python, with the help of chat GPT 3.5
+How to integrate  LLM to web app using Python, with the help of chat GPT 3.5
 
 ## background
 
-I had an interview with a startup who want people build applications to use and interact with LLM and ML model. The interviewer processed to ask me an algorithm question. During the time to solve the algorithm, I kept spacing out, and thought about how I can make an web app that use chatGPT in less than 3 hours. The morning after the interview, I have an MVP product.
+I had an interview with a startup that wants people to build applications to use and interact with LLM and ML models. The interviewer processed to ask me an algorithm question. During the time to solve the algorithm, I kept spacing out and thought about how I can make a web app that use chatGPT in less than 3 hours. The morning after, I have an MVP product.
 
 
 ## screenshots
