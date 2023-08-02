@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Integrate ChatGPT to webwapp</title>
+</head>
+<body>
+    <h1>Integrate ChatGPT to webwapp</h1>
+    <form method="post">
+        <label for="user_input">User Input:</label>
+        <input type="text" id="user_input" name="user_input" value="{{ user_input }}">
+        <input type="submit" value="Generate Response">
+    </form>
+    {% if response %}
+        <h2>Response:</h2>
+        <p>{{ response }}</p>
+    {% endif %}
+</body>
+</html>
